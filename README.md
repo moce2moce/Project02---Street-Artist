@@ -1,4 +1,4 @@
-# Project02
+# Project02 - Street Artist
 
 https://goce-georgievski-project2.netlify.app/
 
