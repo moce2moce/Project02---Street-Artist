@@ -1,6 +1,6 @@
 # Project02
 
-https://goce-georgievski-project2.netlify.app/app/
+https://goce-georgievski-project2.netlify.app/
 
 
 ## Getting started
